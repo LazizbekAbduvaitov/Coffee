@@ -1,0 +1,53 @@
+.icon{
+    display: inline-block;
+    width: 24px;
+    height: 24px;
+    background-color: #000;
+    cursor: pointer;
+    mask-repeat: no-repeat;
+    mask-size: contain;
+    mask-position: center;
+    -webkit-mask-repeat: no-repeat;
+    -webkit-mask-size: contain;
+    -webkit-mask-position: center;
+}
+
+.icon_arrow_right{
+    mask-image: url(./icons/arrow_right_alt_black_24dp.svg);
+    -webkit-mask-image: url(./icons/arrow_right_alt_black_24dp.svg);    
+}
+
+.icon_highlight{
+    mask-image: url(./icons/highlight_off_black_24dp.svg);
+    -webkit-mask-image: url(./icons/highlight_off_black_24dp.svg);    
+}
+
+.icon_list{
+    mask-image: url(./icons/list_ben_svg.svg);
+    -webkit-mask-image: url(./icons/list_ben_svg.svg);    
+}
+
+.icon_shipping{
+    mask-image: url(./icons/shipping.svg);
+    -webkit-mask-image: url(./icons/shipping.svg);    
+}
+
+.icon_coffe{
+    mask-image: url(./icons/coffe.svg);
+    -webkit-mask-image: url(./icons/coffe.svg);    
+}
+
+.icon_chewron{
+    mask-image: url(./icons/chevron-down.svg);
+    -webkit-mask-image: url(./icons/chevron-down.svg);    
+}
+
+.icon_star{
+    mask-image: url(./icons/star.svg);
+    -webkit-mask-image: url(./icons/star.svg);    
+}
+
+.icon_gmail{
+    mask-image: url(./icons/email.svg);
+    -webkit-mask-image: url(./icons/email.svg);    
+}
